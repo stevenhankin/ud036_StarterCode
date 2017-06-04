@@ -21,5 +21,4 @@ class Movie:
 
     # Launch the default browser and open the YouTube Trailer for this instance's film
     def show_trailer(self):
-        print "trailer is " + self.trailer_youtube_url
         webbrowser.open(self.trailer_youtube_url)
