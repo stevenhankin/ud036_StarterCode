@@ -3,9 +3,9 @@
 ## Contents
 * [Introduction](#introduction)
 * [Installation](#installation)
-* [Usage](https://github.com/stevenhankin/ud036_StarterCode/blob/master/README.md#Usage)
-* [Contribution](https://github.com/stevenhankin/ud036_StarterCode/blob/master/README.md#Contribution)
-* [Licensing](https://github.com/stevenhankin/ud036_StarterCode/blob/master/README.md#Licensing)
+* [Usage](#usage)
+* [Contribution](#contribution)
+* [Licensing](#licensing)
 
 ## Introduction
 This application will open a browser and display a selection
