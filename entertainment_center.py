@@ -26,4 +26,4 @@ desperado = media.Movie("Desperado",
 movies = sorted([bourne_identity, sexy_beast, crimson_tide, desperado], key=lambda movie: movie.title)
 
 # ..and display in default browser
-fresh_tomatoes.open_movies_page(movies)
+fresh_tomatoes.Browser(movies).open_movies_page()

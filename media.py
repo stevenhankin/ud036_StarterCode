@@ -1,17 +1,14 @@
-"""
-Your task is to write a movie class in media.py.
-
-To do this, think about what the properties of a movie are that need to be encapsulated
-in a movie object such as movie titles, box art, poster images, and movie trailer URLs.
-
-Look at what open_movies_page() does with a list of movie objects
-for hints on how to design your movie class.
-"""
-
 import webbrowser
 
 
 class Movie:
+    """
+    Attributes:
+        title (str): Movie title
+        storyline(str): Film synopsis
+        poster_image_url(str): URL that links to an image of the film poster on the internet
+        trailer_youtube_url(str): URL that links to a trailer for the film on youtube
+    """
     def __init__(self, movie_title, movie_storyline, poster_image,
                  trailer_youtube):
         self.title = movie_title
