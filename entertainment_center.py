@@ -1,5 +1,5 @@
-import media
-import fresh_tomatoes
+import media  # Encapsulates movie data and launches trailers
+import fresh_tomatoes  # Builds HTML with movie tiles
 
 bourne_identity = media.Movie("The Bourne Identity",
                               "A man is picked up by a fishing boat, "
