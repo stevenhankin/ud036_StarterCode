@@ -1,4 +1,5 @@
-import media, fresh_tomatoes
+import media
+import fresh_tomatoes
 
 bourne_identity = media.Movie("The Bourne Identity",
                               "A man is picked up by a fishing boat, bullet-riddled and suffering from amnesia, "
@@ -18,7 +19,7 @@ crimson_tide = media.Movie("Crimson Tide",
 
 desperado = media.Movie("Desperado",
                         "A gunslinger is embroiled in a war with a local drug runner",
-                        "https://images-na.ssl-images-amazon.com/images/M/MV5BYjA0NDMyYTgtMDgxOC00NGE0LWJkOTQtNDRjMjEzZmU0ZTQ3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg", # nopep8
+                        "https://images-na.ssl-images-amazon.com/images/M/MV5BYjA0NDMyYTgtMDgxOC00NGE0LWJkOTQtNDRjMjEzZmU0ZTQ3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg",  # nopep8
                         "https://youtu.be/ESSAlCrKUVg")
 
 # Sort movies by title..

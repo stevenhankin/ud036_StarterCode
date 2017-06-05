@@ -14,10 +14,10 @@ def get_template_data(template_name):
 main_page_head = get_template_data('main_page_head')
 
 # The main page layout and title bar
-main_page_content = get_template_data('main_page_head')
+main_page_content = get_template_data('main_page_content')
 
 # A single movie entry html template
-movie_tile_content = get_template_data('main_page_head')
+movie_tile_content = get_template_data('movie_tile_content')
 
 
 def create_movie_tiles_content(movies):

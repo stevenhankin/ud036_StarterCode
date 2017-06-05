@@ -1,8 +1,8 @@
 # Entertainment Center
 
 ## Contents
-* [Introduction](https://github.com/stevenhankin/ud036_StarterCode/blob/master/README.md#Introduction)
-* [Installation](https://github.com/stevenhankin/ud036_StarterCode/blob/master/README.md#Installation)
+* [Introduction](#introduction)
+* [Installation](#installation)
 * [Usage](https://github.com/stevenhankin/ud036_StarterCode/blob/master/README.md#Usage)
 * [Contribution](https://github.com/stevenhankin/ud036_StarterCode/blob/master/README.md#Contribution)
 * [Licensing](https://github.com/stevenhankin/ud036_StarterCode/blob/master/README.md#Licensing)
@@ -18,7 +18,7 @@ Just choose a film and click!
 git clone https://github.com/stevenhankin/ud036_StarterCode.git
 ```
 ## Usage
-```buildoutcfg
+```
 python entertainment_center.py
 ```
 
